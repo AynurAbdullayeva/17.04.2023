@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;500;700&display=swap');
+@import "./abstracts/variables";
+@import "./abstracts/mixins";
+@import "./abstracts/extends";
+@import "./base/reset";
+@import "./layout/grid";
+@import "./base/typography";
+@import "./components/buttons";
+@import "./components/dropdown";
+@import "./layout/header";
+@import "./pages/home";
+@import "./layout/footer";
